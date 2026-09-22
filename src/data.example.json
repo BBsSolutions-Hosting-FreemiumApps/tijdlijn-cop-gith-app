@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Eerste schets van het project",
+    "date": "2021-02-14",
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='200'><rect width='400' height='200' fill='%233457d5'/><text x='50%25' y='50%25' fill='white' font-size='28' font-family='sans-serif' text-anchor='middle' dominant-baseline='middle'>Idee</text></svg>",
+    "excerpt": "Een klein team schetst het allereerste concept op een whiteboard tijdens een regenachtige vrijdagmiddag.",
+    "content": "Wat begon als een informele brainstorm groeide binnen een paar weken uit tot een concreet plan. De eerste schetsen bevatten al veel van de kernideeën die later terug zouden komen in de uiteindelijke architectuur.",
+    "category": "Planning"
+  },
+  {
+    "title": "Prototype werkt voor het eerst",
+    "date": "2021-05-27",
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='200'><rect width='400' height='200' fill='%23198754'/><text x='50%25' y='50%25' fill='white' font-size='28' font-family='sans-serif' text-anchor='middle' dominant-baseline='middle'>Prototype</text></svg>",
+    "excerpt": "Na maandenlang sleutelen draait de eerste werkende versie eindelijk foutloos op een testmachine.",
+    "content": "Het prototype was verre van perfect, maar het bewees dat het onderliggende idee daadwerkelijk werkte. Deze mijlpaal gaf het team het vertrouwen om door te bouwen richting een echte release.",
+    "category": "Ontwikkeling"
+  },
+  {
+    "title": "Publieke bèta van start",
+    "date": "2021-09-03",
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='200'><rect width='400' height='200' fill='%23e07a1f'/><text x='50%25' y='50%25' fill='white' font-size='26' font-family='sans-serif' text-anchor='middle' dominant-baseline='middle'>Bèta</text></svg>",
+    "excerpt": "Honderden vroege gebruikers krijgen toegang en sturen binnen enkele dagen tientallen bugmeldingen in.",
+    "url": "https://example.com/blog/beta-lancering",
+    "category": "Release"
+  },
+  {
+    "title": "Eerste grote klant aan boord",
+    "date": "2022-01-11",
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='200'><rect width='400' height='200' fill='%236f42c1'/><text x='50%25' y='50%25' fill='white' font-size='24' font-family='sans-serif' text-anchor='middle' dominant-baseline='middle'>Klant</text></svg>",
+    "excerpt": "Een middelgroot bedrijf tekent als eerste betalende klant, wat het team veel nieuwe inzichten oplevert.",
+    "content": "De samenwerking legde meteen een aantal schaalproblemen bloot die in de bètafase nooit waren opgemerkt. De oplossingen die hieruit voortkwamen vormden de basis van de huidige architectuur.",
+    "category": "Groei"
+  },
+  {
+    "title": "Volledige herbouw van de interface",
+    "date": "2022-06-30",
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='200'><rect width='400' height='200' fill='%23d63384'/><text x='50%25' y='50%25' fill='white' font-size='24' font-family='sans-serif' text-anchor='middle' dominant-baseline='middle'>Redesign</text></svg>",
+    "excerpt": "Na veel gebruikersfeedback wordt de volledige gebruikersinterface van de grond af opnieuw opgebouwd.",
+    "content": "Het redesign richtte zich vooral op duidelijkheid en snelheid. Onnodige stappen werden geschrapt en de belangrijkste acties kregen een prominentere plek in het scherm.",
+    "category": "Ontwikkeling"
+  },
+  {
+    "title": "Mijlpaal: 10.000 actieve gebruikers",
+    "date": "2023-03-01",
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='200'><rect width='400' height='200' fill='%23146c94'/><text x='50%25' y='50%25' fill='white' font-size='22' font-family='sans-serif' text-anchor='middle' dominant-baseline='middle'>10.000+</text></svg>",
+    "excerpt": "De teller tikt door de grens van tienduizend actieve gebruikers, ruim voor de interne verwachting.",
+    "url": "https://example.com/blog/10000-gebruikers",
+    "category": "Groei"
+  },
+  {
+    "title": "Introductie van het plugin-systeem",
+    "date": "2023-08-19",
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='200'><rect width='400' height='200' fill='%23495057'/><text x='50%25' y='50%25' fill='white' font-size='22' font-family='sans-serif' text-anchor='middle' dominant-baseline='middle'>Plugins</text></svg>",
+    "excerpt": "Externe ontwikkelaars kunnen voor het eerst zelf uitbreidingen bouwen dankzij een nieuwe plugin-API.",
+    "content": "Binnen de eerste maand verschenen er al een tiental community-plugins, variërend van kleine hulpmiddeltjes tot volwaardige integraties met andere diensten.",
+    "category": "Ontwikkeling"
+  },
+  {
+    "title": "Lancering van de mobiele app",
+    "date": "2024-02-08",
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='200'><rect width='400' height='200' fill='%23087f5b'/><text x='50%25' y='50%25' fill='white' font-size='22' font-family='sans-serif' text-anchor='middle' dominant-baseline='middle'>Mobiel</text></svg>",
+    "excerpt": "Na maanden van testen verschijnt de eerste mobiele versie in de belangrijkste app-stores.",
+    "content": "De mobiele app werd bewust klein en snel gehouden: alleen de meest gebruikte functies uit de webversie, geoptimaliseerd voor gebruik onderweg.",
+    "category": "Release"
+  },
+  {
+    "title": "Samenwerking met een grote partner",
+    "date": "2024-11-22",
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='200'><rect width='400' height='200' fill='%23c9184a'/><text x='50%25' y='50%25' fill='white' font-size='22' font-family='sans-serif' text-anchor='middle' dominant-baseline='middle'>Partner</text></svg>",
+    "excerpt": "Een strategische samenwerking wordt aangekondigd, waardoor het platform een nieuw publiek bereikt.",
+    "url": "https://example.com/blog/strategische-samenwerking",
+    "category": "Groei"
+  },
+  {
+    "title": "Grootste update ooit uitgebracht",
+    "date": "2025-06-05",
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='200'><rect width='400' height='200' fill='%23343a40'/><text x='50%25' y='50%25' fill='white' font-size='22' font-family='sans-serif' text-anchor='middle' dominant-baseline='middle'>Update</text></svg>",
+    "excerpt": "Een jaar aan werk komt samen in de grootste feature-update sinds de lancering van het platform.",
+    "content": "De update bevatte een nieuwe zoekfunctie, verbeterde prestaties op grote datasets en een volledig vernieuwd meldingensysteem, gebaseerd op maanden aan gebruikersonderzoek.",
+    "category": "Release"
+  }
+]
